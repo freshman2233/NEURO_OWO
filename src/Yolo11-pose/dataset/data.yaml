@@ -1,0 +1,6 @@
+path: /kaggle/input/gymdata-v1/dataset
+train: images/train
+val: images/val
+nc: 8
+names: ['fwcce', 'fwcce_n', 'fwcz', 'fwcz_n', 'ytc', 'ytc_n', 'ytz', 'ytz_n']
+kpt_shape: [17, 3]  # 17个关键点，每个点含x,y,visibility
