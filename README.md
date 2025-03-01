@@ -4,9 +4,7 @@ Welcome to **Neuro owo**, an AI-based platform designed to help users achieve cu
 
 **YouTube Introduction Link**
 
-https://www.youtube.com/watch?v=nRGR58uyMOo
-
-![logo](./assets/logo.png)
+[![IMAGE ALT TEXT HERE](./assets/0-1740857342147-3.jpg)](https://www.youtube.com/watch?v=nRGR58uyMOo)
 
 ## Table of Contents
 
