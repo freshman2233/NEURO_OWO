@@ -2,6 +2,12 @@
 
 Welcome to **Neuro owo**, an AI-based platform designed to help users achieve customized health and wellness goals. By integrating machine learning, computer vision, and natural language processing, Neuro owo provides tailored exercise plans, dietary recommendations, and real-time health interventions. This repository contains the core codebase, model files, and additional resources for running and developing the Neuro owo system.
 
+**YouTube Introduction Link**
+
+https://www.youtube.com/watch?v=nRGR58uyMOo
+
+![logo](./assets/logo.png)
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
