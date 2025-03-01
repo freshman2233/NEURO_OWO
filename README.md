@@ -203,7 +203,11 @@ We welcome contributions of any kind—whether it’s bug reports, new features,
 4. Push to your branch: `git push origin feature/YourFeature`.
 5. Create a Pull Request on GitHub.
 
+
+
 ## Contact
+
+We are a dedicated group of researchers and developers united by a shared vision: to leverage cutting-edge AI technologies for empowering personal health and wellness. Neuro owo is the result of our combined expertise in machine learning, computer vision, and natural language processing.
 
 If you have any questions, suggestions, or feedback, feel free to open an issue or reach out:
 
