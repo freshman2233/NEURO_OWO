@@ -2,15 +2,21 @@
 
 ## Introduction
 
-Welcome to **Neuro owo**, an AI-based platform designed to help users achieve customized health and wellness goals. By integrating **machine learning, computer vision, and natural language processing**, Neuro owo provides tailored exercise plans, dietary recommendations, and real-time health interventions. This repository contains the core codebase, model files, and additional resources for running and developing the Neuro owo system.
+Imagine having your very own AI coach that not only tracks your workouts, but also helps you train smarter, move better, and stay healthier—that’s **Neuro owo**! In today’s hectic world, keeping up with your fitness and nutrition can be a real challenge. Neuro owo makes it effortless by combining **cutting-edge AI**, **pose estimation**, and **personalized coaching** to optimize your workouts and diet.
 
-**YouTube Introduction Link**
+Powered by the **YOLO v11 pose estimation model**, Neuro owo analyzes your movements with **82% accuracy**, giving you real-time corrections for push-ups, pull-ups, and other postures—so you see better results with fewer injuries. But that’s not all! Using **DeepSeek AI**, our app learns from your training history to create **weekly workout and diet plans** tailored to your individual needs. Whether you’re brand-new to fitness or a seasoned athlete, this AI assistant adapts to push you toward your best self.
+
+Getting started is simple: if you haven’t used Neuro owo before, you’ll first fill in some basic body data to personalize your experience. Next, you can sync your past workout data from any compatible smart device. When you’re ready to exercise, just open the **camera**, and the app will automatically detect your exercise type, making sure you maintain the correct form. Perfect form counts toward your totals; if something’s off, the app gently prompts you to adjust. Want an even better plan for the coming week? **DeepSeek** will use your exercise history, real-time data, and its built-in **LLM** to craft a tailored program that helps you keep improving.
+
+Train smarter, move better, and take control of your health with **Neuro owo**—your personal AI fitness coach!
+
+### **YouTube Introduction**
 
 [![IMAGE ALT TEXT HERE](./assets/0-1740857342147-3.jpg)](https://www.youtube.com/watch?v=nRGR58uyMOo)
 
 
 
-## Competition Introduction
+### Competition Introduction
 
 This project is part of **Deep Learning Week 2025**, a competition organized by **MLDA@EEE, Micron, Google, AWS, DoraHacks, NVIDIA, and JaneStreet**. You can learn more about the event and join the competition via the following links:
 
