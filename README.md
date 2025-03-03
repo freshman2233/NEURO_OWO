@@ -1,10 +1,23 @@
 # Neuro owo: AI-based Application for Personalized Health Management
 
-Welcome to **Neuro owo**, an AI-based platform designed to help users achieve customized health and wellness goals. By integrating machine learning, computer vision, and natural language processing, Neuro owo provides tailored exercise plans, dietary recommendations, and real-time health interventions. This repository contains the core codebase, model files, and additional resources for running and developing the Neuro owo system.
+## Introduction
+
+Welcome to **Neuro owo**, an AI-based platform designed to help users achieve customized health and wellness goals. By integrating **machine learning, computer vision, and natural language processing**, Neuro owo provides tailored exercise plans, dietary recommendations, and real-time health interventions. This repository contains the core codebase, model files, and additional resources for running and developing the Neuro owo system.
 
 **YouTube Introduction Link**
 
 [![IMAGE ALT TEXT HERE](./assets/0-1740857342147-3.jpg)](https://www.youtube.com/watch?v=nRGR58uyMOo)
+
+
+
+## Competition Introduction
+
+This project is part of **Deep Learning Week 2025**, a competition organized by **MLDA@EEE, Micron, Google, AWS, DoraHacks, NVIDIA, and JaneStreet**. You can learn more about the event and join the competition via the following links:
+
+- **Competition Link**: https://dorahacks.io/hackathon/dlweek2025/buidl
+- **Event Introduction**: https://www.dlweek.com/
+
+![1953b093f1b2eb9b967a21543dcbabad](./assets/1953b093f1b2eb9b967a21543dcbabad.jpg)
 
 ## Table of Contents
 
